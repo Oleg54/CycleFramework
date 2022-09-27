@@ -22,4 +22,4 @@
 * Общие данные хранятся в объекте GlobalData, доступ к которому можно получить с помощью FrameworkCommander.GlobalData. Сохраняемые данные от несохраняемых отделяются атрибутами.
 * Класс FrameworkCommander инкапсулирует в себе интерфейс для управления игровым состоянием фреймворка. 
 
-![Image alt](https://github.com/Oleg54/CycleFramework/tree/main/Images/image.png)
+![Image alt](https://github.com/Oleg54/CycleFramework/raw/main/Images/image.png)
