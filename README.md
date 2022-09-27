@@ -21,3 +21,5 @@
 * Все UI окна находятся в иерархии Canvas/Screens. Получение окон - UIScreenRepository.GetScreen<SomeUIScreen>(). Окна меняют свое состояние только при участии классов CycleInitializer.
 * Общие данные хранятся в объекте GlobalData, доступ к которому можно получить с помощью FrameworkCommander.GlobalData. Сохраняемые данные от несохраняемых отделяются атрибутами.
 * Класс FrameworkCommander инкапсулирует в себе интерфейс для управления игровым состоянием фреймворка. 
+
+![Image alt](https://github.com/Oleg54/CycleFramework/tree/main/Images/image.png)
